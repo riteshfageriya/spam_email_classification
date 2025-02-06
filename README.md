@@ -79,7 +79,7 @@ To use the Spam Mail Classification app, follow these steps:
 
 ### Contributors
 
-- Sachin Raj - If others have contributed to this project, consider adding their names here.
+- Sachin Raj 
 
 ## License
 
