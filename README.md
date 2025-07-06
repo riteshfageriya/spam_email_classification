@@ -75,11 +75,7 @@ To use the Spam Mail Classification app, follow these steps:
 
 ## Author
 
-- **Sachin Raj**
-
-### Contributors
-
-- Sachin Raj 
+- **Ritesh fageria**
 
 ## License
 
